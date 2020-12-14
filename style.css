@@ -8,7 +8,6 @@ h1 {
   font-size: 100px;
     }
     
- <style>
     div.stuck {
   position: absolute;
   background-color: lime;
@@ -18,7 +17,6 @@ h1 {
   z-index: 100;
   height: 50px;
 }
-    </style>
 
 
 /* ----------------------------------------------------Nav Bar Style--------------------------------------------*/
