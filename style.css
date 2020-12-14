@@ -8,6 +8,17 @@ h1 {
   font-size: 100px;
     }
     
+ <style>
+    div.stuck {
+  position: absolute;
+  background-color: salmon;
+  border: 5px dashed;
+  right: 20px;
+  top: 25px;
+  height: 50px;
+}
+    </style>
+
 
 /* ----------------------------------------------------Nav Bar Style--------------------------------------------*/
     ul {
