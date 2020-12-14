@@ -12,9 +12,9 @@ div.stuck {
   position: absolute;
   background-color: salmon;
   border: 5px dashed;
-  center: 0px;
+  center: 50%;
   top: 0px;
-  height: 50px;
+  height: 25px;
 }
 
 
@@ -29,7 +29,7 @@ div.stuck {
   overflow: hidden;
   position: fixed;
   left: 0;
-  top: 0
+  top: 25px
   
 }
 
