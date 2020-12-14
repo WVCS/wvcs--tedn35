@@ -13,7 +13,7 @@ div.stuck {
   background-color: salmon;
   border: 5px dashed;
   right: 20px;
-  top: 25px;
+  top: 0px;
   height: 50px;
 }
 
