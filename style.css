@@ -8,14 +8,6 @@ h1 {
   font-size: 100px;
     }
 
-div.stuck {
-  position: absolute;
-  background-color: salmon;
-  border: 5px dashed;
-  center: 50px;
-  top: 0px;
-  height: 25px;
-}
 
 
 
@@ -29,7 +21,7 @@ div.stuck {
   overflow: hidden;
   position: fixed;
   left: 0;
-  top: 25
+  top: 0
   
 }
 
