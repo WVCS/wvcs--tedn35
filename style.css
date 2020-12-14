@@ -8,6 +8,18 @@ h1 {
   font-size: 100px;
     }
 
+div.sticky {
+  color: blue;
+  position: sticky;
+  background-color: lavender;
+  border: 2px dotted blue;
+  max-width: 500px;
+  top: 0;
+  z-index: 1;
+  left: 33%;
+}
+
+
 
 /* ----------------------------------------------------Nav Bar Style--------------------------------------------*/
     ul {
